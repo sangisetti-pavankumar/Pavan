@@ -1,1 +1,1 @@
-Six file of git training
+Sixth file of git training in Sonata
