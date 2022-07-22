@@ -1,1 +1,3 @@
 Merging file in master branch is updated
+File-1 in bugfix branch is modified.
+
